@@ -62,6 +62,7 @@ scikit-learn==1.5.1
 scipy==1.14.0
 six==1.16.0
 soundfile==0.12.1
+sounddevice==0.4.7
 soxr==0.3.7
 sympy==1.13.0
 threadpoolctl==3.5.0
