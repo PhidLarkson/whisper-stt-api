@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 model_size = "distil-large-v3"
 
-# @app.route('/transcribe', methods=['POST'])
+@app.route('/transcribe', methods=['POST'])
 def transcribe():
     # Get the audio data from the request
     audio_data = request.files['audio'].read()
