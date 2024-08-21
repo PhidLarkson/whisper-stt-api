@@ -2,9 +2,9 @@
 
 ### This is an easy speech to text api project you can set up easy.
 
-Make sure to install the needed components.
+Make sure to install the needed components from the requirements.txt file.
 
-` pip install -mr requirements.txt `
+` pip install -r requirements.txt `
 
 ---
 
