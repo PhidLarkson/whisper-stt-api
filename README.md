@@ -13,6 +13,7 @@ Make sure to install the needed components.
 - The [stt.py](https://github.com/PhidLarkson/whisper-stt-api/blob/main/stt.py) makes requests to the API service you set up to transcribe audio data.
 
 Works great!!
+
 ![image](https://github.com/user-attachments/assets/8632aa41-c99d-4ad7-876a-ea5c4a8fe663)
 
 Check out the [faster-whisper pypi page](https://pypi.org/project/faster-whisper/) for more...
