@@ -1,10 +1,10 @@
 ## THE WHISPER SPEECH TO TEXT API SAMPLE
 
-###This is an easy speech to text api project you can set up easy.
+### This is an easy speech to text api project you can set up easy.
 
 Make sure to install the needed components.
 
-` pip install -mr requirements.txt`
+` pip install -mr requirements.txt `
 
 ---
 
