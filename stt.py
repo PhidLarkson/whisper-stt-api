@@ -3,7 +3,7 @@ from scipy.io.wavfile import write
 import requests
 
 # Set the API endpoint URL
-api_url = "https://whisper-stt-api.onrender.com/transcribe"
+api_url = "REPLACE WITH THE API ENDPOINT URL OF YOUR STT SERVICE"
 
 # Set the recording parameters
 sample_rate = 16000
